@@ -248,7 +248,7 @@ public class QBIntegration {
                 
                 update testList;
             } catch(DmlException e) {
-                System.debug('The following ecccxception has occurred: ' + e.getMessage());
+                System.debug('The following ecccxcepdstion has occurred: ' + e.getMessage());
             }
             
             
